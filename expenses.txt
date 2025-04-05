@@ -1,0 +1,4 @@
+nourriture,2500
+transport,1500
+nourriture,1000
+logement,30000
