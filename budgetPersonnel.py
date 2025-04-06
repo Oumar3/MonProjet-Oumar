@@ -18,7 +18,6 @@ def voir_les_depenses():
     try:
         with open('depense.txt','r') as f:
             lines = f.readlines()
-            print(lines)
             print("----- Voici la liste des depenses disponibles-----")
             print("Cartegorie   Montant ")
             print("____________________")
