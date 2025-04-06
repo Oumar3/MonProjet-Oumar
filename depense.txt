@@ -1,0 +1,3 @@
+Transport, 100
+Transport, 200
+Nourriture, 400
